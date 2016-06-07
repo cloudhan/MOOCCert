@@ -1,4 +1,4 @@
-[[https://www.coursera.org/account/accomplishments/records/z5ShPrz456QQuKKz][機器學習基石 (Machine Learning Foundations)]]
-[[https://www.coursera.org/account/accomplishments/records/DgLBenEEYggCJP2E][機器學習技法 (Machine Learning Techniques)]]
-[[https://www.coursera.org/account/accomplishments/records/eF47z69bEdJKwdSg][Introduction to Natural Language Processing]]
-[[https://www.coursera.org/account/accomplishments/records/Vbyupq7CFjYe4XUH][Computational Neuroscience]]
+1. [[https://www.coursera.org/account/accomplishments/records/z5ShPrz456QQuKKz][機器學習基石 (Machine Learning Foundations)]]
+2. [[https://www.coursera.org/account/accomplishments/records/DgLBenEEYggCJP2E][機器學習技法 (Machine Learning Techniques)]]
+3. [[https://www.coursera.org/account/accomplishments/records/eF47z69bEdJKwdSg][Introduction to Natural Language Processing]]
+4. [[https://www.coursera.org/account/accomplishments/records/Vbyupq7CFjYe4XUH][Computational Neuroscience]]
